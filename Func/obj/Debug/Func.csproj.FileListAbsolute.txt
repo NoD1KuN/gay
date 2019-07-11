@@ -1,0 +1,13 @@
+D:\Белимов\Func\Func\bin\Debug\Func.exe.config
+D:\Белимов\Func\Func\bin\Debug\Func.exe
+D:\Белимов\Func\Func\bin\Debug\Func.pdb
+D:\Белимов\Func\Func\obj\Debug\Func.csprojResolveAssemblyReference.cache
+D:\Белимов\Func\Func\obj\Debug\Func.exe
+D:\Белимов\Func\Func\obj\Debug\Func.pdb
+C:\Users\610\Desktop\Func\Func\bin\Debug\Func.exe.config
+C:\Users\610\Desktop\Func\Func\bin\Debug\Func.exe
+C:\Users\610\Desktop\Func\Func\bin\Debug\Func.pdb
+C:\Users\610\Desktop\Func\Func\obj\Debug\Func.csprojResolveAssemblyReference.cache
+C:\Users\610\Desktop\Func\Func\obj\Debug\Func.csproj.CoreCompileInputs.cache
+C:\Users\610\Desktop\Func\Func\obj\Debug\Func.exe
+C:\Users\610\Desktop\Func\Func\obj\Debug\Func.pdb
